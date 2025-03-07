@@ -32,9 +32,9 @@ public class App {
     static Random aleatorio = new Random(42);
 
     /**
-     * Código de teste 1. Este método...
+     * Código de teste 1. Este método... SOMA O RESTO DA DIVISÃO DOS n/2 ELEMENTOS
      * @param vetor Vetor com dados para teste.
-     * @return Uma resposta que significa....
+     * @return Uma resposta que significa.... ACUMULADOR (0 OU 1)
      */
     static int codigo1(int[] vetor) {
         int resposta = 0;
@@ -61,7 +61,7 @@ public class App {
     }
 
     /**
-     * Código de teste 3. Este método...
+     * Código de teste 3. Este método... SELEÇÃO
      * @param vetor Vetor com dados para teste.
      */
     static void codigo3(int[] vetor) {
